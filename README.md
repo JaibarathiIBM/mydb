@@ -1,2 +1,2 @@
-# mydb
-##Welocme to my DB
+## mydb
+# Welcome to my DB
